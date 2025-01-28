@@ -1,3 +1,3 @@
 # The wild Oasis
 
-Finale Porject in Jonas Schmedtmann's Ultimate React Course
+Finale Project in Jonas Schmedtmann's Ultimate React Course
